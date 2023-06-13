@@ -1,8 +1,8 @@
 import 'dart:math';
 
-import 'package:first_app/dice.dart';
-import 'package:first_app/styled_button.dart';
-import 'package:first_app/styled_text.dart';
+import 'package:first_flutter_app/dice.dart';
+import 'package:first_flutter_app/styled_button.dart';
+import 'package:first_flutter_app/styled_text.dart';
 import 'package:flutter/material.dart';
 
 final randomizer = Random();

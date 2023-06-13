@@ -1,4 +1,4 @@
-import 'package:first_app/styled_text.dart';
+import 'package:first_flutter_app/styled_text.dart';
 import 'package:flutter/material.dart';
 
 class StyledButton extends StatelessWidget {
